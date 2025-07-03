@@ -1,8 +1,9 @@
 # 📄 Document Signature
-
+![Screenshot 2025-07-03 165506](https://github.com/user-attachments/assets/8db6a3f0-d8ea-49dc-a6f8-8da17369e251)
 A full-stack web application built with **Next.js** that allows users to:
 
 - Upload and view PDF documents
+
 - Upload a signature image (e.g., `sign.jpg`)
 - **Drag and place** the signature visually over the PDF
 - **Embed** the signature into the actual PDF using `pdf-lib`
